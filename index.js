@@ -24,17 +24,17 @@ function imprime(){
 
 // Função para atualizar a página após clicar no botão
 
-/*function atualizarPagina() {
+function atualizarPagina() {
     location.href = location.href;
 
   };
-*/
+
 
 //Atribuindo função ao botão para sortear elementos do array
 
 var btn = document.getElementById("sort");
 
-btn.addEventListener("on-click", imprime());
+btn.addEventListener("on-click", imprime(), atualizarPagina());
 
 
 
