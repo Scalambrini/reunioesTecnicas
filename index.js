@@ -1,5 +1,16 @@
-// Cria o array com 5 itens
-var advogados = ["Alessandra Mie Ikehara Katori", "Beatriz Ferreira Baschiera", "Bruna Ferreira Costa", "Bruno Lopes Teixeira", "Bruno Paranhos Fleury", "Camila Amaral dos Santos", "Gabriela Mota Bastos", "Gabriela Sampaio Lunardelli", "Isabela Garcia Funaro Ruiz", "Maria Beatriz Beatriz Silva Almeida", "Otávio Abreu Caiafa", "Sâmia Ali Salman"];
+// Cria o array com 12 itens
+var advogados = ["Alessandra Mie Ikehara Katori", 
+                 "Beatriz Ferreira Baschiera",
+                 "Bruna Ferreira Costa", 
+                 "Bruno Lopes Teixeira", 
+                 "Bruno Paranhos Fleury", 
+                 "Camila Amaral dos Santos", 
+                 "Gabriela Mota Bastos", 
+                 "Gabriela Sampaio Lunardelli", 
+                 "Isabela Garcia Funaro Ruiz", 
+                 "Maria Beatriz Beatriz Silva Almeida", 
+                 "Otávio Abreu Caiafa", 
+                 "Sâmia Ali Salman"];
 
 // Embaralhando o array
 
