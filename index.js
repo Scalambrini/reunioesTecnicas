@@ -45,7 +45,7 @@ function atualizarPagina() {
 
 var btn = document.getElementById("sort");
 
-btn.addEventListener("on-click", imprime(), atualizarPagina());
+btn.addEventListener("click", imprime(), atualizarPagina());
 
 
 
