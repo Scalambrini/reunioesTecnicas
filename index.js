@@ -1,6 +1,5 @@
 // Cria o array com 12 itens
 var advogados = ["Alessandra Mie Ikehara Katori", 
-                 "Beatriz Ferreira Baschiera",
                  "Bruna Ferreira Costa", 
                  "Bruno Lopes Teixeira", 
                  "Bruno Paranhos Fleury", 
